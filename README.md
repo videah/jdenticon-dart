@@ -1,3 +1,6 @@
+## jdenticons-dart
+[![pub package](https://img.shields.io/pub/v/jdenticon.svg)](https://pub.dartlang.org/packages/jdenticon)
+
 Very messy port of Jdenticons to Dart, will clean up later.
 
 ## Usage
